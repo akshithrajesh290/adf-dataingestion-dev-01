@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataingest-dev-usk0001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5986b4b4-8a32-4747-860d-bdbdeea6e567",
+		"tenantId": "fd75fe55-5a13-42be-9257-a6e344178d16"
+	}
+}
